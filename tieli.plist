@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.1.210:10087/IOS/tieli.ipa</string>
+					<string>http://tielidownload.tulongqipai.com/App/tieli.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -23,7 +23,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>途隆棋牌</string>
+				<string>途隆龙江麻将</string>
 			</dict>
 		</dict>
 	</array>
